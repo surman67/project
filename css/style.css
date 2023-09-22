@@ -1,0 +1,21 @@
+.cat_item{
+  
+    background-size: cover;
+    background-position: center;
+
+}
+
+.cat_item1{
+    background-image: url('../img/jjjjjj.jpg');
+}
+
+.cat_item2{
+    background-image:url('../img/save.jpg');
+}
+
+.cat_item3{
+    background-image: url('../img/savee.jpg');
+}
+.cat_item h3{
+    padding-top: 150px;
+}
